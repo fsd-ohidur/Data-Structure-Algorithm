@@ -1,0 +1,6 @@
+Add a 'debugger' statement in function
+Call funcation manually
+At terminal, run 'node inspect index.js'
+To continue execution, press 'c' then 'enter'
+To launch a 'repl' session, type 'repl'  then 'enter'
+To exit the 'repl', press Ctrl+C

@@ -1,0 +1,26 @@
+Stack
+-------------------------------------------------------- 
+Means: Arrange plate or book
+	a. Add Item : Push (one above another)
+	b. Delete Item: Pop ( Remove Top one)
+	c. Get Value (Not delete): Peek (Read a item)
+Rules: LIFO
+
+Code : List or Array 
+Implement: 
+	a. push
+	b. pop
+	c. peek
+
+
+Queue
+---------------------------
+means: line
+	a. add : enqueue
+		point: i. Front ii. Rear
+	b. remove: dequeue
+Rules: FIFO
+Code : Circular Array
+Implement:
+	a. enqueue
+	b. dequeue
